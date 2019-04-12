@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "com.techm.justgifit",
+    "type": "com.techm.justgifit.JustGifItProperties",
+    "sourceType": "com.techm.justgifit.JustGifItProperties"
+  }],
+  "properties": [
+    {
+      "name": "com.techm.justgifit.gif-location",
+      "type": "java.io.File",
+      "sourceType": "com.techm.justgifit.JustGifItProperties"
+    },
+    {
+      "name": "com.techm.justgifit.optimize",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.techm.justgifit.JustGifItProperties"
+    }
+  ],
+  "hints": []
+}
